@@ -1,6 +1,6 @@
 # pwning
 
-This repo contains resources/notes/blogs I've found on the interwebz related to binary exploitation. I hope you find it useful.
+This repo contains resources/notes/blogs I've found on the interwebz related to binary exploitation. I hope you find them as useful as I did.
 
 ### _Blogs - Write-ups_
 
