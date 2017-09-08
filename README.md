@@ -10,6 +10,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Glibc Malloc Internals](https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/)
 
+* [Malloc Internals](https://sourceware.org/glibc/wiki/MallocInternals)
+
 * [Heap Exploitation](https://heap-exploitation.dhavalkapil.com)
 
 * [GEF Tutorial Playlist](https://www.youtube.com/playlist?list=PLjAuO31Rg972WeMvdR_57Qu-aVM8T6DkQ)
