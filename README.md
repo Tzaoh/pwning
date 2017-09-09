@@ -40,6 +40,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [fevral](https://fevral.github.io)
 
+* [XPN](https://blog.xpnsec.com/)
+
 ### _Youtube_
 
 * [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
