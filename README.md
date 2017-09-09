@@ -42,6 +42,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [XPN](https://blog.xpnsec.com/)
 
+* [Isaac's Blog](https://poning.me/)
+
 ### _Youtube_
 
 * [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
