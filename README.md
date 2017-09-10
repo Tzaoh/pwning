@@ -67,6 +67,9 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Textes sur le hacking - OUAH Site](http://www.ouah.org/textes.html) 
 
+* [Stepping with GDB during PLT uses and .GOT fixup](http://www.ouah.org/ELF-runtime-fixup.txt)
+
+
 ### _Youtube_
 
 * [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
@@ -78,6 +81,7 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 * [OJ Reeves](https://www.youtube.com/channel/UCz2aqRQWMhJ4wcJq3XneqRg/feed)
 
 * [kileak](https://www.youtube.com/channel/UCi-IXmtQLrJjg5Ji78DqvAg)
+
 
 ### _Practice_
 
