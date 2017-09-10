@@ -55,6 +55,10 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 * [skullsecurity](https://blog.skullsecurity.org/)
 
 
+### _Papers_
+
+https://paper.seebug.org/papers/Archive/refs/2015-1029-yangkun-Gold-Mining-CTF.pdf
+
 ### _Youtube_
 
 * [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
