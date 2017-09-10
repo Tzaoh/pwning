@@ -57,7 +57,7 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 ### _Papers_
 
-https://paper.seebug.org/papers/Archive/refs/2015-1029-yangkun-Gold-Mining-CTF.pdf
+* https://paper.seebug.org/papers/Archive/refs/2015-1029-yangkun-Gold-Mining-CTF.pdf
 
 ### _Youtube_
 
