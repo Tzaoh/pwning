@@ -46,6 +46,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [wapiflapi](http://wapiflapi.github.io/)
 
+* [4rbit3r](https://jkrshnmenon.wordpress.com/)
+
 ### _Youtube_
 
 * [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
