@@ -16,6 +16,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Windows Kernel Driver Exploitation](https://glennmcgui.re/introduction-to-windows-kernel-exploitation-pt-1/)
 
+* [Windows Exploitation](https://github.com/enddo/awesome-windows-exploitation)
+
 * [Introduction to Reverse Engineering Software in Linux](http://ouah.org/RevEng/t1.htm)
 
 * [GEF Tutorial Playlist](https://www.youtube.com/playlist?list=PLjAuO31Rg972WeMvdR_57Qu-aVM8T6DkQ)
