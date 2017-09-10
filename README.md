@@ -69,8 +69,6 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Textes sur le hacking - OUAH Site](http://www.ouah.org/textes.html) 
 
-* [Stepping with GDB during PLT uses and .GOT fixup](http://www.ouah.org/ELF-runtime-fixup.txt)
-
 
 ### _Youtube_
 
