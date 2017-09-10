@@ -34,6 +34,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [File Stream Pointer Overflow](http://w0lfzhang.me/2016/11/19/File-Stream-Pointer-Overflow/)
 
+* [ret2dl-resolve](http://wapiflapi.github.io/2014/11/17/hacklu-oreo-with-ret2dl-resolve/)
+
 * [Abusing Exit Handlers](http://binholic.blogspot.gr/2017/05/notes-on-abusing-exit-handlers.html)
 
 * [skullsecurity](https://blog.skullsecurity.org/)
