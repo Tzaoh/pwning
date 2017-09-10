@@ -14,6 +14,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Heap Exploitation](https://heap-exploitation.dhavalkapil.com)
 
+* [Windows Kernel Driver Exploitation](https://glennmcgui.re/introduction-to-windows-kernel-exploitation-pt-1/)
+
 * [GEF Tutorial Playlist](https://www.youtube.com/playlist?list=PLjAuO31Rg972WeMvdR_57Qu-aVM8T6DkQ)
 
 * [C++ VTable Pwning](https://defuse.ca/exploiting-cpp-vtables.htm)
@@ -21,6 +23,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 * [Bruce Chen](https://bruce30262.github.io)
 
 * [Angelboy](http://blog.angelboy.tw)
+
+* [glem](https://glennmcgui.re/)
 
 * [hugsy](https://blahcat.github.io/)
 
@@ -32,14 +36,6 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [kileak](https://kileak.github.io/)
 
-* [File Stream Pointer Overflow](http://w0lfzhang.me/2016/11/19/File-Stream-Pointer-Overflow/)
-
-* [ret2dl-resolve](http://wapiflapi.github.io/2014/11/17/hacklu-oreo-with-ret2dl-resolve/)
-
-* [Abusing Exit Handlers](http://binholic.blogspot.gr/2017/05/notes-on-abusing-exit-handlers.html)
-
-* [skullsecurity](https://blog.skullsecurity.org/)
-
 * [fevral](https://fevral.github.io)
 
 * [XPN](https://blog.xpnsec.com/)
@@ -49,6 +45,15 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 * [wapiflapi](http://wapiflapi.github.io/)
 
 * [4rbit3r](https://jkrshnmenon.wordpress.com/)
+
+* [File Stream Pointer Overflow](http://w0lfzhang.me/2016/11/19/File-Stream-Pointer-Overflow/)
+
+* [ret2dl-resolve](http://wapiflapi.github.io/2014/11/17/hacklu-oreo-with-ret2dl-resolve/)
+
+* [Abusing Exit Handlers](http://binholic.blogspot.gr/2017/05/notes-on-abusing-exit-handlers.html)
+
+* [skullsecurity](https://blog.skullsecurity.org/)
+
 
 ### _Youtube_
 
