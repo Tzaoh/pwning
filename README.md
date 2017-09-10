@@ -59,6 +59,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * https://paper.seebug.org/papers/Archive/refs/2015-1029-yangkun-Gold-Mining-CTF.pdf
 
+* https://paper.seebug.org/papers/Security%20Conf/
+
 ### _Youtube_
 
 * [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
