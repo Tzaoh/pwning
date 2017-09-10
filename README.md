@@ -63,6 +63,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * https://paper.seebug.org/papers/Security%20Conf/
 
+* [Textes sur le hacking - OUAH Site](http://www.ouah.org/textes.html) 
+
 ### _Youtube_
 
 * [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
