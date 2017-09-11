@@ -42,6 +42,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [fevral](https://fevral.github.io)
 
+* [BinaryStudio](https://binarystud.io/)
+
 * [XPN](https://blog.xpnsec.com/)
 
 * [Isaac's Blog](https://poning.me/)
