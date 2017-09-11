@@ -110,3 +110,10 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 * [how2bof](https://github.com/Caesurus/how2bof)
 
 * [how2exploit](https://github.com/bert88sta/how2exploit_binary)
+
+
+### _Tools_
+
+* [gef](https://github.com/hugsy/gef)
+
+* [Pwngdb](https://github.com/scwuaptx/Pwngdb)
