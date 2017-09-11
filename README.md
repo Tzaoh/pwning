@@ -4,7 +4,7 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 ### _Blogs - Write-ups_
 
-* [ARM Assembly/Exploitation](https://azeria-labs.com/writing-arm-assembly-part-1/)
+* [ARM Assembly / Exploitation](https://azeria-labs.com/writing-arm-assembly-part-1/)
 
 * [Heap House Techniques](https://gbmaster.wordpress.com/)
 
@@ -63,6 +63,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 * [skullsecurity](https://blog.skullsecurity.org/)
 
 * [Libc Database](https://libc.blukat.me/)
+
+* [Online x86 / x64 Assembler and Disassembler](https://defuse.ca/online-x86-assembler.htm)
 
 
 ### _Papers_
