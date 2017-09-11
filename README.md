@@ -8,6 +8,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Heap House Techniques](https://gbmaster.wordpress.com/)
 
+* [House of Einherjar](https://github.com/st4g3r/House-of-Einherjar-CB2016)
+
 * [Glibc Malloc Internals](https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/)
 
 * [Malloc Internals](https://sourceware.org/glibc/wiki/MallocInternals)
