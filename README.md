@@ -26,21 +26,21 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [C++ VTable Pwning](https://defuse.ca/exploiting-cpp-vtables.htm)
 
+* [uafio](http://uaf.io)
+
+* [rh0gue](http://blog.rh0gue.com/)
+
+* [kileak](https://kileak.github.io/)
+
 * [Bruce Chen](https://bruce30262.github.io)
 
-* [Angelboy](http://blog.angelboy.tw)
+* [Angelboy](https://github.com/scwuaptx/CTF)
 
 * [glem](https://glennmcgui.re/)
 
 * [hugsy](https://blahcat.github.io/)
 
-* [uafio](http://uaf.io)
-
-* [rh0gue](http://blog.rh0gue.com/)
-
 * [grazfather](http://grazfather.github.io/)
-
-* [kileak](https://kileak.github.io/)
 
 * [fevral](https://fevral.github.io)
 
