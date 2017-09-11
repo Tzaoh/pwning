@@ -93,6 +93,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Pwn Challenges List](https://pastebin.com/uyifxgPu)
 
+* [ROP Emporium](https://ropemporium.com/)
+
 * [how2fsb](https://github.com/Caesurus/how2fsb)
 
 * [how2bof](https://github.com/Caesurus/how2bof)
