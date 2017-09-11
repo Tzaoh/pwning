@@ -60,6 +60,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [skullsecurity](https://blog.skullsecurity.org/)
 
+* [Libc Database](https://libc.blukat.me/)
+
 
 ### _Papers_
 
