@@ -91,6 +91,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [pwnable.tw](https://pwnable.tw/)
 
+* [Pwn Challenges List](https://pastebin.com/uyifxgPu)
+
 * [how2fsb](https://github.com/Caesurus/how2fsb)
 
 * [how2bof](https://github.com/Caesurus/how2bof)
