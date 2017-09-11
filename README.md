@@ -6,7 +6,7 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [ARM Assembly / Exploitation](https://azeria-labs.com/writing-arm-assembly-part-1/)
 
-* [Heap House Techniques](https://gbmaster.wordpress.com/)
+* [Heap Houses](https://gbmaster.wordpress.com/)
 
 * [House of Einherjar](https://github.com/st4g3r/House-of-Einherjar-CB2016)
 
