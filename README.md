@@ -4,8 +4,6 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 ### _Blogs - Write-ups_
 
-* [ARM Assembly / Exploitation](https://azeria-labs.com/writing-arm-assembly-part-1/)
-
 * [Heap Houses](https://gbmaster.wordpress.com/)
 
 * [House of Einherjar](https://github.com/st4g3r/House-of-Einherjar-CB2016)
@@ -19,6 +17,10 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 * [Windows Kernel Driver Exploitation](https://glennmcgui.re/introduction-to-windows-kernel-exploitation-pt-1/)
 
 * [Windows Exploitation](https://github.com/enddo/awesome-windows-exploitation)
+
+* [ARM Assembly / Exploitation](https://azeria-labs.com/writing-arm-assembly-part-1/)
+
+* [IOT ARM Exploitation](https://quequero.org/2017/07/arm-exploitation-iot-episode-1/)
 
 * [Introduction to Reverse Engineering Software in Linux](http://ouah.org/RevEng/t1.htm)
 
