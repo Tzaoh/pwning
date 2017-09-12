@@ -20,7 +20,7 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [ARM Assembly / Exploitation](https://azeria-labs.com/writing-arm-assembly-part-1/)
 
-* [IOT ARM Exploitation](https://quequero.org/2017/07/arm-exploitation-iot-episode-1/)
+* [IoT ARM Exploitation](https://quequero.org/2017/07/arm-exploitation-iot-episode-1/)
 
 * [Introduction to Reverse Engineering Software in Linux](http://ouah.org/RevEng/t1.htm)
 
