@@ -64,10 +64,6 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [skullsecurity](https://blog.skullsecurity.org/)
 
-* [Libc Database](https://libc.blukat.me/)
-
-* [Online x86 / x64 Assembler and Disassembler](https://defuse.ca/online-x86-assembler.htm)
-
 
 ### _Papers_
 
@@ -119,3 +115,7 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 * [Pwngdb](https://github.com/scwuaptx/Pwngdb)
 
 * [IDA FLIRT Signature Database](https://github.com/push0ebp/sig-database)
+
+* [Libc Database](https://libc.blukat.me/)
+
+* [Online x86 / x64 Assembler and Disassembler](https://defuse.ca/online-x86-assembler.htm)
