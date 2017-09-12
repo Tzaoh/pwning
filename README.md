@@ -117,3 +117,5 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 * [gef](https://github.com/hugsy/gef)
 
 * [Pwngdb](https://github.com/scwuaptx/Pwngdb)
+
+* [IDA FLIRT Signature Database](https://github.com/push0ebp/sig-database)
