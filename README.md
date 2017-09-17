@@ -4,15 +4,17 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 ### _Blogs - Write-ups_
 
-* [Heap Houses](https://gbmaster.wordpress.com/)
-
-* [House of Einherjar](https://github.com/st4g3r/House-of-Einherjar-CB2016)
+* [NSA's Reverse Engineering Resources](https://codebreaker.ltsnet.net/resources)
 
 * [Glibc Malloc Internals](https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/)
 
 * [Malloc Internals](https://sourceware.org/glibc/wiki/MallocInternals)
 
 * [Heap Exploitation](https://heap-exploitation.dhavalkapil.com)
+
+* [Heap Houses](https://gbmaster.wordpress.com/)
+
+* [House of Einherjar](https://github.com/st4g3r/House-of-Einherjar-CB2016)
 
 * [Windows Kernel Driver Exploitation](https://glennmcgui.re/introduction-to-windows-kernel-exploitation-pt-1/)
 
