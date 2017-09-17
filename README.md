@@ -50,6 +50,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [BinaryStudio](https://binarystud.io/)
 
+* [acez.re](http://acez.re/)
+
 * [XPN](https://blog.xpnsec.com/)
 
 * [Isaac's Blog](https://poning.me/)
