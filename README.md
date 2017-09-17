@@ -66,6 +66,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [skullsecurity](https://blog.skullsecurity.org/)
 
+* [Educational Tools for Binary Ninja](https://medium.com/keylogged/educational-tools-for-binary-ninja-23e586fe051)
+
 
 ### _Papers_
 
