@@ -24,6 +24,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Introduction to Reverse Engineering Software in Linux](http://ouah.org/RevEng/t1.htm)
 
+* [Educational Tools for Binary Ninja](https://medium.com/keylogged/educational-tools-for-binary-ninja-23e586fe051)
+
 * [GEF Tutorial Playlist](https://www.youtube.com/playlist?list=PLjAuO31Rg972WeMvdR_57Qu-aVM8T6DkQ)
 
 * [C++ VTable Pwning](https://defuse.ca/exploiting-cpp-vtables.htm)
@@ -66,7 +68,6 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [skullsecurity](https://blog.skullsecurity.org/)
 
-* [Educational Tools for Binary Ninja](https://medium.com/keylogged/educational-tools-for-binary-ninja-23e586fe051)
 
 
 ### _Papers_
