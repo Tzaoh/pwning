@@ -73,7 +73,7 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * https://paper.seebug.org/papers/Archive/refs/2015-1029-yangkun-Gold-Mining-CTF.pdf
 
-* https://paper.seebug.org/papers/Security%20Conf/
+* [CON Papers](https://paper.seebug.org/papers/Security%20Conf/)
 
 * [Textes sur le hacking - OUAH Site](http://www.ouah.org/textes.html) 
 
