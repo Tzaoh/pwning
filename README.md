@@ -6,6 +6,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [NSA's Reverse Engineering Resources](https://codebreaker.ltsnet.net/resources)
 
+* [R4ndom’s Beginning Reverse Engineering Tutorials](http://octopuslabs.io/legend/blog/sample-page.html)
+
 * [SAT/SMT Solvers and Symbolic Execution](https://yurichev.com/writings/SAT_SMT_draft-EN.pdf)
 
 * [Glibc Malloc Internals](https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/)
