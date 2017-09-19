@@ -1,6 +1,6 @@
 # pwning
 
-This repo contains resources/notes/blogs I've found on the interwebz related to binary exploitation. I hope you find them as useful as I did.
+This repo contains resources/notes/blogs I've found on the interwebz related to binary exploitation and internals in general. I hope you find them as useful as I did.
 
 ### _Blogs - Write-ups_
 
@@ -23,6 +23,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 * [Windows Exploitation](https://github.com/enddo/awesome-windows-exploitation)
 
 * [ARM Assembly / Exploitation](https://azeria-labs.com/writing-arm-assembly-part-1/)
+
+* [V8 Internals](https://v8project.blogspot.gr/2017/08/fast-properties.html)
 
 * [IoT ARM Exploitation](https://quequero.org/2017/07/arm-exploitation-iot-episode-1/)
 
