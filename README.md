@@ -127,6 +127,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Pwngdb](https://github.com/scwuaptx/Pwngdb)
 
+* [rVMI](https://github.com/fireeye/rVMI)
+
 * [IDA FLIRT Signature Database](https://github.com/push0ebp/sig-database)
 
 * [Libc Database](https://libc.blukat.me/)
