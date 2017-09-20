@@ -68,8 +68,6 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [4rbit3r](https://jkrshnmenon.wordpress.com/)
 
-* [Unlink to Arbitrary Write](http://acez.re/ctf-writeup-hitcon-ctf-2014-stkof-or-modern-heap-overflow/)
-
 * [File Stream Pointer Overflow](http://w0lfzhang.me/2016/11/19/File-Stream-Pointer-Overflow/)
 
 * [ret2dl-resolve](http://wapiflapi.github.io/2014/11/17/hacklu-oreo-with-ret2dl-resolve/)
