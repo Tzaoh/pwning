@@ -48,6 +48,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Angelboy](https://github.com/scwuaptx/CTF)
 
+* [w0lfzhang](http://w0lfzhang.me/)
+
 * [glem](https://glennmcgui.re/)
 
 * [hugsy](https://blahcat.github.io/)
