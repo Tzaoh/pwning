@@ -62,7 +62,7 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [XPN](https://blog.xpnsec.com/)
 
-* [Isaac's Blog](https://poning.me/)
+* [poning](https://poning.me/)
 
 * [wapiflapi](http://wapiflapi.github.io/)
 
