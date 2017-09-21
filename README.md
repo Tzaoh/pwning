@@ -50,6 +50,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [w0lfzhang](http://w0lfzhang.me/)
 
+* [inaz2](http://inaz2.hatenablog.com/entry/2016/10/13/203019)
+
 * [glem](https://glennmcgui.re/)
 
 * [hugsy](https://blahcat.github.io/)
