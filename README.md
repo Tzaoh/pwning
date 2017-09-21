@@ -16,9 +16,9 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Heap Exploitation](https://heap-exploitation.dhavalkapil.com)
 
-* [Heap Houses](https://gbmaster.wordpress.com/)
-
 * [House of Einherjar](https://github.com/st4g3r/House-of-Einherjar-CB2016)
+
+* [Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation)
 
 * [Windows Kernel Driver Exploitation](https://glennmcgui.re/introduction-to-windows-kernel-exploitation-pt-1/)
 
@@ -63,6 +63,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 * [BinaryStudio](https://binarystud.io/)
 
 * [acez.re](http://acez.re/)
+
+* [gbmaster](https://gbmaster.wordpress.com/)
 
 * [XPN](https://blog.xpnsec.com/)
 
