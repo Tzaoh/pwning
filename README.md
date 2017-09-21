@@ -46,6 +46,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Bruce Chen](https://bruce30262.github.io)
 
+* [hackndo](http://beta.hackndo.com/)
+
 * [Angelboy](https://github.com/scwuaptx/CTF)
 
 * [w0lfzhang](http://w0lfzhang.me/)
