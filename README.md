@@ -62,6 +62,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [fevral](https://fevral.github.io)
 
+* [codemaxx](https://codemaxx.github.io/)
+
 * [BinaryStudio](https://binarystud.io/)
 
 * [acez.re](http://acez.re/)
