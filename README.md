@@ -113,6 +113,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [kileak](https://www.youtube.com/channel/UCi-IXmtQLrJjg5Ji78DqvAg)
 
+* [Intro to Frida and Dynamic Machine Code Transformations](https://www.youtube.com/watch?v=sBcLPLtqGYU)
+
 
 ### _Practice_
 
