@@ -18,6 +18,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [House of Einherjar](https://github.com/st4g3r/House-of-Einherjar-CB2016)
 
+* [The magicians cape – 1 Byte Overflow](https://sensepost.com/blog/2017/linux-heap-exploitation-intro-series-the-magicians-cape-1-byte-overflow/)
+
 * [Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation)
 
 * [Windows Kernel Driver Exploitation](https://glennmcgui.re/introduction-to-windows-kernel-exploitation-pt-1/)
