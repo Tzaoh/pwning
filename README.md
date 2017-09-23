@@ -113,6 +113,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [kileak](https://www.youtube.com/channel/UCi-IXmtQLrJjg5Ji78DqvAg)
 
+* [RETriforce](https://www.youtube.com/watch?v=l_rGk-Z-L-0)
+
 * [Intro to Frida and Dynamic Machine Code Transformations](https://www.youtube.com/watch?v=sBcLPLtqGYU)
 
 
