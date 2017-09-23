@@ -145,6 +145,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Pwngdb](https://github.com/scwuaptx/Pwngdb)
 
+* [z3 API in Python](https://ericpony.github.io/z3py-tutorial/guide-examples.htm)
+
 * [rVMI](https://github.com/fireeye/rVMI)
 
 * [IDA FLIRT Signature Database](https://github.com/push0ebp/sig-database)
