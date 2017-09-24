@@ -149,6 +149,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [z3 API in Python](https://ericpony.github.io/z3py-tutorial/guide-examples.htm)
 
+* [angr](https://github.com/angr/angr-doc/tree/master/examples)
+
 * [rVMI](https://github.com/fireeye/rVMI)
 
 * [IDA FLIRT Signature Database](https://github.com/push0ebp/sig-database)
