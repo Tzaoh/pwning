@@ -64,6 +64,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [glem](https://glennmcgui.re/)
 
+* [rootkits.xyz](https://rootkits.xyz/blog/)
+
 * [hugsy](https://blahcat.github.io/)
 
 * [grazfather](http://grazfather.github.io/)
@@ -145,6 +147,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 * [how2bof](https://github.com/Caesurus/how2bof)
 
 * [how2exploit](https://github.com/bert88sta/how2exploit_binary)
+
+* [ARM Exploitation Challenges](https://github.com/Billy-Ellis/Exploit-Challenges)
 
 
 ### _Tools_
