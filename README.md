@@ -117,6 +117,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Murmus](https://www.youtube.com/channel/UCUB9vOGEUpw7IKJRoR4PK-A)
 
+* [cetfor](https://www.youtube.com/cyberspacecamp)
+
 * [OJ Reeves](https://www.youtube.com/channel/UCz2aqRQWMhJ4wcJq3XneqRg/feed)
 
 * [kileak](https://www.youtube.com/channel/UCi-IXmtQLrJjg5Ji78DqvAg)
