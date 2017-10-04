@@ -140,6 +140,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [HITCON Training](https://github.com/scwuaptx/HITCON-Training/tree/master/LAB)
 
+* [bamboofox](https://bamboofox.cs.nctu.edu.tw/courses/1/challenges)
+
 * [how2heap](https://github.com/shellphish/how2heap)
 
 * [ROP Emporium](https://ropemporium.com/)
