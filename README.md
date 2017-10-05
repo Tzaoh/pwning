@@ -2,7 +2,7 @@
 
 This repo contains resources/notes/blogs I've found on the interwebz related to binary exploitation and internals in general. I hope you find them as useful as I did.
 
-### _Blogs - Write-ups_
+### _Blogs / Write-ups_
 
 * [NSA's Reverse Engineering Resources](https://codebreaker.ltsnet.net/resources)
 
