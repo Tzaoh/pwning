@@ -42,6 +42,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [GEF Tutorial Playlist](https://www.youtube.com/playlist?list=PLjAuO31Rg972WeMvdR_57Qu-aVM8T6DkQ)
 
+* [A Journey into Radare 2](https://www.megabeets.net/a-journey-into-radare-2-part-1/)
+
 * [C++ VTable Pwning](https://defuse.ca/exploiting-cpp-vtables.htm)
 
 * [uafio](http://uaf.io)
