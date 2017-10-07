@@ -121,13 +121,13 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Colin Hardy](https://www.youtube.com/channel/UCND1KVdVt8A580SjdaS4cZg)
 
+* [Stephen Chapman](https://www.youtube.com/channel/UCqfqH-wq12WOm4QG4KiRisw)
+
 * [cetfor](https://www.youtube.com/cyberspacecamp)
 
 * [OJ Reeves](https://www.youtube.com/channel/UCz2aqRQWMhJ4wcJq3XneqRg/feed)
 
 * [kileak](https://www.youtube.com/channel/UCi-IXmtQLrJjg5Ji78DqvAg)
-
-* [RETriforce](https://www.youtube.com/watch?v=l_rGk-Z-L-0)
 
 * [Intro to Frida and Dynamic Machine Code Transformations](https://www.youtube.com/watch?v=sBcLPLtqGYU)
 
