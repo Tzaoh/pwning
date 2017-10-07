@@ -119,6 +119,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Murmus](https://www.youtube.com/channel/UCUB9vOGEUpw7IKJRoR4PK-A)
 
+* [Colin Hardy](https://www.youtube.com/channel/UCND1KVdVt8A580SjdaS4cZg)
+
 * [cetfor](https://www.youtube.com/cyberspacecamp)
 
 * [OJ Reeves](https://www.youtube.com/channel/UCz2aqRQWMhJ4wcJq3XneqRg/feed)
