@@ -4,6 +4,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 ### _Blogs / Write-ups_
 
+* [CTF Resources](https://www.doyler.net/security-not-included/ctf-resources)
+
 * [NSA's Reverse Engineering Resources](https://codebreaker.ltsnet.net/resources)
 
 * [FAQ: How to Learn Reverse Engineering](http://gynvael.coldwind.pl/?lang=en&id=664)
@@ -100,6 +102,7 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [skullsecurity](https://blog.skullsecurity.org/)
 
+* [KernelFarm](https://kernelfarm.com/index.html)
 
 
 ### _Papers_
