@@ -48,6 +48,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [C++ VTable Pwning](https://defuse.ca/exploiting-cpp-vtables.htm)
 
+* [megabeets](https://www.megabeets.net/)
+
 * [uafio](http://uaf.io)
 
 * [rh0gue](http://blog.rh0gue.com/)
