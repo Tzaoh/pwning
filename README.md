@@ -50,6 +50,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [megabeets](https://www.megabeets.net/)
 
+* [RETriforce](https://www.youtube.com/watch?v=l_rGk-Z-L-0&list=PLDDgCVPL60zjrLN8DBZz13xqaW3AWH64Y&index=1)
+
 * [uafio](http://uaf.io)
 
 * [rh0gue](http://blog.rh0gue.com/)
