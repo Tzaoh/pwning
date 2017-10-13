@@ -132,6 +132,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [cetfor](https://www.youtube.com/cyberspacecamp)
 
+* [WinDbg Series](https://www.youtube.com/watch?list=PLhx7-txsG6t6n_E2LgDGqgvJtCHPL7UFu&v=8zBpqc3HkSE)
+
 * [OJ Reeves](https://www.youtube.com/channel/UCz2aqRQWMhJ4wcJq3XneqRg/feed)
 
 * [kileak](https://www.youtube.com/channel/UCi-IXmtQLrJjg5Ji78DqvAg)
