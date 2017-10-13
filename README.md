@@ -174,6 +174,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Pwngdb](https://github.com/scwuaptx/Pwngdb)
 
+* [Unicorn Engine](https://github.com/unicorn-engine/unicorn)
+
 * [z3 API in Python](https://ericpony.github.io/z3py-tutorial/guide-examples.htm)
 
 * [manticore](https://github.com/trailofbits/manticore)
