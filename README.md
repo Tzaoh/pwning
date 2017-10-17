@@ -142,6 +142,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Reverse Engineering Embedded ARM Devices](https://www.youtube.com/watch?v=oXSx0Qo2Upk)
 
+* [r2con 2017](https://www.youtube.com/watch?list=PLjIhlLNy_Y9Oe-nfcPEpaki0_En5dhQ5S&v=URyd4bcV-Ik)
+
 * [r2con 2016](https://www.youtube.com/watch?list=PLjIhlLNy_Y9O62rjwYD48pVER0EVh1-aU&v=QVjrqlo5A9g)
 
 ### _Practice_
