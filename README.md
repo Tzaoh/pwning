@@ -140,6 +140,7 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Intro to Frida and Dynamic Machine Code Transformations](https://www.youtube.com/watch?v=sBcLPLtqGYU)
 
+* [Reverse Engineering Embedded ARM Devices](https://www.youtube.com/watch?v=oXSx0Qo2Upk)
 
 ### _Practice_
 
