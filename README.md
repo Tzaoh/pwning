@@ -138,6 +138,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [kileak](https://www.youtube.com/channel/UCi-IXmtQLrJjg5Ji78DqvAg)
 
+* [Angry Hacking](https://www.youtube.com/watch?v=oznsT-ptAbk)
+
 * [Intro to Frida and Dynamic Machine Code Transformations](https://www.youtube.com/watch?v=sBcLPLtqGYU)
 
 * [Reverse Engineering Embedded ARM Devices](https://www.youtube.com/watch?v=oXSx0Qo2Upk)
