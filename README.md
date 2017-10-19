@@ -162,6 +162,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [how2heap](https://github.com/shellphish/how2heap)
 
+* [Heap Challenges](https://github.com/soez/heap-challenges)
+
 * [CTF Course](https://github.com/qazbnm456/ctf-course)
 
 * [ROP Emporium](https://ropemporium.com/)
