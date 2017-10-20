@@ -34,9 +34,9 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [ARM Assembly / Exploitation](https://azeria-labs.com/writing-arm-assembly-part-1/)
 
-* [V8 Internals](https://v8project.blogspot.gr/2017/08/fast-properties.html)
-
 * [IoT ARM Exploitation](https://quequero.org/2017/07/arm-exploitation-iot-episode-1/)
+
+* [Reversing and Exploiting ARM Binaries](http://www.mathyvanhoef.com/2013/12/reversing-and-exploiting-arm-binaries.html)
 
 * [Introduction to Reverse Engineering Software in Linux](http://ouah.org/RevEng/t1.htm)
 
@@ -107,6 +107,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 * [skullsecurity](https://blog.skullsecurity.org/)
 
 * [KernelFarm](https://kernelfarm.com/index.html)
+
+* [V8 Internals](https://v8project.blogspot.gr/2017/08/fast-properties.html)
 
 
 ### _Papers_
