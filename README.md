@@ -195,6 +195,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [manticore](https://github.com/trailofbits/manticore)
 
+* [Magic with Manticore](https://blog.trailofbits.com/2017/05/15/magic-with-manticore/)
+
 * [angr](https://github.com/angr/angr-doc/tree/master/examples)
 
 * [rVMI](https://github.com/fireeye/rVMI)
