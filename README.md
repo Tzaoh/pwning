@@ -66,6 +66,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [w0lfzhang](http://w0lfzhang.me/)
 
+* [pwn4fun](http://pwn4.fun/)
+
 * [Mutepig](http://www.mutepig.club/)
 
 * [inaz2](http://inaz2.hatenablog.com/entry/2016/10/13/203019)
