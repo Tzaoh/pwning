@@ -26,6 +26,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation)
 
+* [macOS:iOS Kernel Debugging and Heap Feng Shui](https://www.youtube.com/watch?v=jqrw-VpYekY)
+
 * [Research Rootkit Project](https://github.com/NoviceLive/research-rootkit)
 
 * [Windows Kernel Driver Exploitation](https://glennmcgui.re/introduction-to-windows-kernel-exploitation-pt-1/)
