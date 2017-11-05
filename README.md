@@ -140,6 +140,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [cetfor](https://www.youtube.com/cyberspacecamp)
 
+* [OALabs](https://www.youtube.com/channel/UC--DwaiMV-jtO-6EvmKOnqg)
+
 * [WinDbg Series](https://www.youtube.com/watch?list=PLhx7-txsG6t6n_E2LgDGqgvJtCHPL7UFu&v=8zBpqc3HkSE)
 
 * [OJ Reeves](https://www.youtube.com/channel/UCz2aqRQWMhJ4wcJq3XneqRg/feed)
