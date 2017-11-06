@@ -108,13 +108,13 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [ret2dl-resolve](http://wapiflapi.github.io/2014/11/17/hacklu-oreo-with-ret2dl-resolve/)
 
+* [Game Boy Pwning Write-up](https://github.com/ymgve/ctf-writeups/tree/master/plaidctf2017/pwn450-gameboy)
+
 * [Abusing Exit Handlers](http://binholic.blogspot.gr/2017/05/notes-on-abusing-exit-handlers.html)
 
 * [skullsecurity](https://blog.skullsecurity.org/)
 
 * [KernelFarm](https://kernelfarm.com/index.html)
-
-* [V8 Internals](https://v8project.blogspot.gr/2017/08/fast-properties.html)
 
 
 ### _Papers_
@@ -141,6 +141,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 * [cetfor](https://www.youtube.com/cyberspacecamp)
 
 * [OALabs](https://www.youtube.com/channel/UC--DwaiMV-jtO-6EvmKOnqg)
+
+* [The Ultimate Game Boy Talk](https://www.youtube.com/watch?v=HyzD8pNlpwI)
 
 * [WinDbg Series](https://www.youtube.com/watch?list=PLhx7-txsG6t6n_E2LgDGqgvJtCHPL7UFu&v=8zBpqc3HkSE)
 
