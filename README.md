@@ -20,6 +20,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Heap Exploitation](https://heap-exploitation.dhavalkapil.com)
 
+* [afl-unicorn: Fuzzing Arbitrary Binary Code](https://medium.com/@njvoss299/afl-unicorn-fuzzing-arbitrary-binary-code-563ca28936bf)
+
 * [House of Einherjar](https://github.com/st4g3r/House-of-Einherjar-CB2016)
 
 * [The magicians cape – 1 Byte Overflow](https://sensepost.com/blog/2017/linux-heap-exploitation-intro-series-the-magicians-cape-1-byte-overflow/)
