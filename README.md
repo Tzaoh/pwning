@@ -54,6 +54,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [GEF Tutorial Playlist](https://www.youtube.com/playlist?list=PLjAuO31Rg972WeMvdR_57Qu-aVM8T6DkQ)
 
+* [2017 Flare-on Challenge Solutions](https://www.fireeye.com/blog/threat-research/2017/10/2017-flare-on-challenge-solutions.html)
+
 * [A Journey into Radare 2](https://www.megabeets.net/a-journey-into-radare-2-part-1/)
 
 * [C++ VTable Pwning](https://defuse.ca/exploiting-cpp-vtables.htm)
