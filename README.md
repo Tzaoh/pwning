@@ -207,6 +207,10 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Pwngdb](https://github.com/scwuaptx/Pwngdb)
 
+* [pwntools](https://github.com/Gallopsled/pwntools)
+
+* [pwnjs](https://github.com/theori-io/pwnjs)
+
 * [Unicorn Engine](https://github.com/unicorn-engine/unicorn)
 
 * [IDA EA](https://github.com/1111joe1111/ida_ea)
