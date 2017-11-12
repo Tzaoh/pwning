@@ -211,6 +211,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [pwnjs](https://github.com/theori-io/pwnjs)
 
+* [preeny](https://github.com/zardus/preeny)
+
 * [Unicorn Engine](https://github.com/unicorn-engine/unicorn)
 
 * [IDA EA](https://github.com/1111joe1111/ida_ea)
