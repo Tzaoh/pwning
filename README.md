@@ -44,6 +44,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [ARM Assembly / Exploitation](https://azeria-labs.com/writing-arm-assembly-part-1/)
 
+* [ARM Lab Environment](https://azeria-labs.com/arm-lab-vm/)
+
 * [IoT ARM Exploitation](https://quequero.org/2017/07/arm-exploitation-iot-episode-1/)
 
 * [Reversing and Exploiting ARM Binaries](http://www.mathyvanhoef.com/2013/12/reversing-and-exploiting-arm-binaries.html)
