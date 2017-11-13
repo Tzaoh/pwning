@@ -129,6 +129,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [ret2dl-resolve](http://wapiflapi.github.io/2014/11/17/hacklu-oreo-with-ret2dl-resolve/)
 
+* [ROP ret2dl-resolve](http://rk700.github.io/2015/08/09/return-to-dl-resolve/)
+
 * [Abusing Exit Handlers](http://binholic.blogspot.gr/2017/05/notes-on-abusing-exit-handlers.html)
 
 * https://paper.seebug.org/papers/Archive/refs/2015-1029-yangkun-Gold-Mining-CTF.pdf
@@ -183,8 +185,6 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 * [Pwn Challenges List](https://pastebin.com/uyifxgPu)
 
 * [HITCON Training](https://github.com/scwuaptx/HITCON-Training/tree/master/LAB)
-
-* [bamboofox](https://bamboofox.cs.nctu.edu.tw/courses/1/challenges)
 
 * [how2heap](https://github.com/shellphish/how2heap)
 
