@@ -227,7 +227,11 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [angr](https://github.com/angr/angr-doc/tree/master/examples)
 
+* [Klee & Angr](https://www.slideshare.net/bananaappletw/klee-and-angr-81332924)
+
 * [rVMI](https://github.com/fireeye/rVMI)
+
+* [Witchcraft Compiler Collection](https://github.com/endrazine/wcc)
 
 * [IDA FLIRT Signature Database](https://github.com/push0ebp/sig-database)
 
