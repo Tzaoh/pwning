@@ -40,6 +40,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Windows Exploitation](https://github.com/enddo/awesome-windows-exploitation)
 
+* [ARM ISA Simplified](http://users.ece.utexas.edu/~valvano/EE345M/Arm_EE382N_4.pdf)
+
 * [Whirlwind Tour of ARM Assembly](https://www.coranac.com/tonc/text/asm.htm)
 
 * [ARM Assembly / Exploitation](https://azeria-labs.com/writing-arm-assembly-part-1/)
