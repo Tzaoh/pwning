@@ -66,8 +66,6 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [megabeets](https://www.megabeets.net/)
 
-* [RETriforce](https://www.youtube.com/watch?v=l_rGk-Z-L-0&list=PLDDgCVPL60zjrLN8DBZz13xqaW3AWH64Y&index=1)
-
 * [uafio](http://uaf.io)
 
 * [rh0gue](http://blog.rh0gue.com/)
@@ -169,6 +167,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 * [Angry Hacking](https://www.youtube.com/watch?v=oznsT-ptAbk)
 
 * [Intro to Frida and Dynamic Machine Code Transformations](https://www.youtube.com/watch?v=sBcLPLtqGYU)
+
+* [Frida: The Engineering Behind the Reverse Engineering](https://youtu.be/uc1mbN9EJKQ)
 
 * [Reverse Engineering Embedded ARM Devices](https://www.youtube.com/watch?v=oXSx0Qo2Upk)
 
