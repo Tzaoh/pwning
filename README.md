@@ -50,6 +50,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [IoT ARM Exploitation](https://quequero.org/2017/07/arm-exploitation-iot-episode-1/)
 
+* [iOS RE](https://github.com/iosre/iOSAppReverseEngineering)
+
 * [Reversing and Exploiting ARM Binaries](http://www.mathyvanhoef.com/2013/12/reversing-and-exploiting-arm-binaries.html)
 
 * [Introduction to Reverse Engineering Software in Linux](http://ouah.org/RevEng/t1.htm)
