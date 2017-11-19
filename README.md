@@ -6,6 +6,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [CTF Resources](https://www.doyler.net/security-not-included/ctf-resources)
 
+* [RE Resources](https://github.com/wtsxDev/reverse-engineering)
+
 * [NSA's Reverse Engineering Resources](https://codebreaker.ltsnet.net/resources)
 
 * [FAQ: How to Learn Reverse Engineering](http://gynvael.coldwind.pl/?lang=en&id=664)
