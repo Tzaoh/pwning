@@ -58,6 +58,10 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Introduction to Reverse Engineering Software in Linux](http://ouah.org/RevEng/t1.htm)
 
+* [Reversing GO Binaries Like a Pro](https://rednaga.io/2016/09/21/reversing_go_binaries_like_a_pro/)
+
+* [Golang Reversing Write-up](http://eternal.red/2017/dont_panic-writeup/)
+
 * [Educational Tools for Binary Ninja](https://medium.com/keylogged/educational-tools-for-binary-ninja-23e586fe051)
 
 * [GEF Tutorial Playlist](https://www.youtube.com/playlist?list=PLjAuO31Rg972WeMvdR_57Qu-aVM8T6DkQ)
