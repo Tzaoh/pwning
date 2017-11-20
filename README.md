@@ -14,6 +14,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [R4ndom’s Beginning Reverse Engineering Tutorials](http://octopuslabs.io/legend/blog/sample-page.html)
 
+* [Fuzzing Resources](https://github.com/secfigo/Awesome-Fuzzing)
+
 * [SAT/SMT Solvers and Symbolic Execution](https://yurichev.com/writings/SAT_SMT_draft-EN.pdf)
 
 * [Understanding glibc malloc](https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/)
