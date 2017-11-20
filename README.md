@@ -34,6 +34,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation)
 
+* [Kernel Mode Rootkits Explained](https://www.adlice.com/kernelmode-rootkits-part-1-ssdt-hooks/)
+
 * [Research Rootkit Project](https://github.com/NoviceLive/research-rootkit)
 
 * [Windows Exploit Development](http://www.shogunlab.com/blog/2017/08/19/zdzg-windows-exploit-1.html)
