@@ -6,6 +6,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [CTF Resources](https://www.doyler.net/security-not-included/ctf-resources)
 
+* [Linux Reverse Engineering](https://github.com/michalmalik/linux-re-101)
+
 * [RE Resources](https://github.com/wtsxDev/reverse-engineering)
 
 * [NSA's Reverse Engineering Resources](https://codebreaker.ltsnet.net/resources)
@@ -61,8 +63,6 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 * [iOS RE](https://github.com/iosre/iOSAppReverseEngineering)
 
 * [Reversing and Exploiting ARM Binaries](http://www.mathyvanhoef.com/2013/12/reversing-and-exploiting-arm-binaries.html)
-
-* [Linux Reverse Engineering](https://github.com/michalmalik/linux-re-101)
 
 * [Reversing GO Binaries Like a Pro](https://rednaga.io/2016/09/21/reversing_go_binaries_like_a_pro/)
 
