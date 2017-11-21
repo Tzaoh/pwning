@@ -16,6 +16,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Fuzzing Resources](https://github.com/secfigo/Awesome-Fuzzing)
 
+* [The Art of Fuzzing](https://sec-consult.com/en/blog/2017/11/the-art-of-fuzzing-slides-and-demos/index.html)
+
 * [SAT/SMT Solvers and Symbolic Execution](https://yurichev.com/writings/SAT_SMT_draft-EN.pdf)
 
 * [Understanding glibc malloc](https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/)
