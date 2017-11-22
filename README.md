@@ -206,6 +206,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Pwn Challenges List](https://pastebin.com/uyifxgPu)
 
+* [RE Challenges List](https://pastebin.com/q7LGi8w5)
+
 * [HITCON Training](https://github.com/scwuaptx/HITCON-Training/tree/master/LAB)
 
 * [how2heap](https://github.com/shellphish/how2heap)
