@@ -4,6 +4,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 ### _Blogs / Write-ups_
 
+* [The Art of Assembly Language](https://www.ic.unicamp.br/~pannain/mc404/aulas/pdfs/Art%20Of%20Intel%20x86%20Assembly.pdf)
+
 * [CTF Resources](https://www.doyler.net/security-not-included/ctf-resources)
 
 * [Linux Reverse Engineering](https://github.com/michalmalik/linux-re-101)
