@@ -230,6 +230,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [pwntools](https://github.com/Gallopsled/pwntools)
 
+* [BNinja Plugins](https://github.com/Vector35/community-plugins/tree/master/plugins)
+
 * [pwnjs](https://github.com/theori-io/pwnjs)
 
 * [preeny](https://github.com/zardus/preeny)
