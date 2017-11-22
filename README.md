@@ -52,6 +52,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [ARM ISA Simplified](http://users.ece.utexas.edu/~valvano/EE345M/Arm_EE382N_4.pdf)
 
+* [ARMv8 Shellcode From A to Z](https://arxiv.org/pdf/1608.03415.pdf)
+
 * [Whirlwind Tour of ARM Assembly](https://www.coranac.com/tonc/text/asm.htm)
 
 * [ARM Assembly / Exploitation](https://azeria-labs.com/writing-arm-assembly-part-1/)
