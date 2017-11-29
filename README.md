@@ -110,8 +110,6 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [hugsy](https://blahcat.github.io/)
 
-* [grazfather](http://grazfather.github.io/)
-
 * [fevral](https://fevral.github.io)
 
 * [codemaxx](https://codemaxx.github.io/)
