@@ -184,6 +184,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 
 * [Angry Hacking](https://www.youtube.com/watch?v=oznsT-ptAbk)
 
+* [Miasm Reverse Engineering Framework](https://youtu.be/eW_JIO67VMg)
+
 * [Intro to Frida and Dynamic Machine Code Transformations](https://www.youtube.com/watch?v=sBcLPLtqGYU)
 
 * [Frida: The Engineering Behind the Reverse Engineering](https://youtu.be/uc1mbN9EJKQ)
