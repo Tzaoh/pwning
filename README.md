@@ -158,7 +158,7 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 * [Textes sur le hacking - OUAH Site](http://www.ouah.org/textes.html) 
 
 
-### _Youtube_
+### _Youtube Channels / CON Playlists_
 
 * [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 
@@ -189,6 +189,8 @@ This repo contains resources/notes/blogs I've found on the interwebz related to 
 * [Frida: The Engineering Behind the Reverse Engineering](https://youtu.be/uc1mbN9EJKQ)
 
 * [Reverse Engineering Embedded ARM Devices](https://www.youtube.com/watch?v=oXSx0Qo2Upk)
+
+* [REcon 2017](https://m.youtube.com/playlist?list=PLIjpAcwszL0p7pDewIOQrwFIuk3Cruj0x)
 
 * [r2con 2017](https://www.youtube.com/watch?list=PLjIhlLNy_Y9Oe-nfcPEpaki0_En5dhQ5S&v=URyd4bcV-Ik)
 
